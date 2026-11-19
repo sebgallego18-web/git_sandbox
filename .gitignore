@@ -1,0 +1,11 @@
+# raw sequencing data
+*.fastq
+*.fastq.gz
+*.bam
+
+# slurm job logs
+slurm-*.out
+
+# scratch space
+scratch/
+tmp/
