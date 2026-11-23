@@ -1,4 +1,4 @@
->Amel_GB45015 draft notes
+>Edited on github
 Honey bee (Apis mellifera) gene models to check
 Check Amel_GB45015 against NCBI annotation
 Apis mellifera are invasive species
